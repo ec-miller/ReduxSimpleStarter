@@ -1,6 +1,10 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Created as part of StephenGrider's [React and Redux](https://www.udemy.com/react-redux/) course.
+
+Improvements:
+1. Added logic such that an empty search will return Minnetonka, MN results rather than a 404.
+2.  
 
 ### Getting Started
 
@@ -23,3 +27,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+#### To load go to localhost:8080 in a browser
